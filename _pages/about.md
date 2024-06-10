@@ -11,7 +11,16 @@ Hello, I am Dante-Berth. My real name means "protector of mankind," and  I striv
 
 What is Reinforcement Learning and How Reinforcement Learning can help us to treat cancers ?
 ======
-1. Reinforcement Learning is a framework where an agent interacts with an environment and tries to maximize the expected reward. It learns through trial and error, similar to how humans learn in video games such as Mario Bros. By attempting new tricks, you can earn more stars, more coins, and achieve a higher cumulative reward.
+1. Reinforcement Learning is a framework where an agent interacts with an environment and tries to maximize the expected cumulative reward. 
+$$
+\displaylines{
+\max_{\pi}\sum_{t=1}^{T}\mathbb{E}_{s_{t},a_{t}	\sim \pi}[r(s_{t},a_{t})] \\\
+ \pi policy\\\
+s_{t},a_{t} state & action \\\
+r reward
+}
+$$
+It learns through trial and error, similar to how humans learn in video games such as Mario Bros. By attempting new tricks, you can earn more stars, more coins, and achieve a higher cumulative reward.
 
 2. Reinforcement Learning needs an environment. In our case, it is a patient. However, we do not use real patients to train our agent; instead, we create virtual cancer micro-environments. These virtual labs serve as playgrounds for agents, allowing us to test without harming patients. In these virtual labs, we can create models centered on patient parameters to find the best treatment regime to treat their cancer.
 
