@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[PhysiCell Embedding](https://github.com/elmbeech/physicellembedding)"
+excerpt: "PhysiCell Embdding is a tool for linking C++ code from PHysiCell to your Python code<br/><img src='/images/physigym_logo_v0.0.0.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[More details](https://github.com/elmbeech/physicellembedding/edit/main/README.md)
