@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Alexander. My research focuses on the second-leading cause of death in advanced countries, which also poses a significant global burden. Passionate about artificial intelligence, I believe leveraging the latest AI technology can revolutionize cancer treatment. AI has the potential to offer patient-centered care by identifying optimal treatment regimes tailored to each individual. My research, titled "Reinforcement Learning for Control of Tumor Multilevel Models," aims to develop AI systems that determine the most effective treatment for each patient. 
+Hello, I am Alexandre. My research focuses on the second-leading cause of death in advanced countries, which also poses a significant global burden. Passionate about artificial intelligence, I believe leveraging the latest AI technology can revolutionize cancer treatment. AI has the potential to offer patient-centered care by identifying optimal treatment regimes tailored to each individual. My research, titled "Reinforcement Learning for Control of Tumor Multilevel Models," aims to develop AI systems that determine the most effective treatment for each patient. 
 
 
 What is Reinforcement Learning and How Reinforcement Learning can help us to treat cancers ?
